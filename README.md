@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunsoni01" alt="arunsoni01" /></a> </p>
 
-- 🌱 I’m currently learning and evolving **Springboot**.
+- 🌱 I’m currently learning **Springboot**.
 
 - 📫 How to reach me **arunkumarsoni@zohomail.in** or **arunkumarsoni023@gmail.com**
 
